@@ -1,4 +1,4 @@
 export const config = {
     "WEB_PORT": 3000,
-    "JWT_SECRET": "small typescript project"
+    "JWT_SECRET": "simple typescript project"
 }

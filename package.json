@@ -1,5 +1,5 @@
 {
-  "name": "sampleProject",
+  "name": "simpleTypeScriptProject",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,6 +19,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "helmet": "^5.0.2",
+    "pg": "^8.7.3",
     "postgres": "^1.0.2",
     "typeorm": "^0.2.41"
   }
